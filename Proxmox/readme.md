@@ -1,2 +1,3 @@
 - [How to Build an Awesome Kubernetes Cluster using Proxmox Virtual Environment](https://youtu.be/U1VzcjCB_sY)
 - [Proxmox Backup Server: Full Getting Started Guide!](https://youtu.be/33ubleU4OFc)
+- [Proxmox VE - How to build an Ubuntu 22.04 Template (Updated Method)](https://youtu.be/MJgIm03Jxdo)
