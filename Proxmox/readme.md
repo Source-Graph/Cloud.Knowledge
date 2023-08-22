@@ -1,0 +1,2 @@
+- [How to Build an Awesome Kubernetes Cluster using Proxmox Virtual Environment](https://youtu.be/U1VzcjCB_sY)
+- [Proxmox Backup Server: Full Getting Started Guide!](https://youtu.be/33ubleU4OFc)
