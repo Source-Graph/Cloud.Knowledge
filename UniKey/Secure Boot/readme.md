@@ -1,0 +1,1 @@
+- [Introducing Secure Boot in Apache CloudStack](https://youtu.be/r3Se_IObkrA)
